@@ -62,7 +62,7 @@ int main(int argc, char * argv[])
     // testing
     test_order_asc(array, n);
 
-    // C++ sort() implementation
+    // C++ sort(b) implementation
 
     // fill array
     fill_array(array, n);
